@@ -1,0 +1,3 @@
+/home/ionin/Рабочий стол/NSTU/TIMP_4_semak/practic's/practica1/build/CMakeFiles/app.dir
+/home/ionin/Рабочий стол/NSTU/TIMP_4_semak/practic's/practica1/build/CMakeFiles/edit_cache.dir
+/home/ionin/Рабочий стол/NSTU/TIMP_4_semak/practic's/practica1/build/CMakeFiles/rebuild_cache.dir
